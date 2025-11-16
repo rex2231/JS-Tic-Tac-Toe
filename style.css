@@ -1,6 +1,8 @@
 *{
 background-color: cadetblue;
 background-size: cover;
+height: 100vh;
+width: 100vh;
 }
 
 .cell{
