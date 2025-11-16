@@ -1,7 +1,7 @@
 *{
 box-sizing: border-box;
 margin: 0; padding: 0;
-margin-bottom: 20px;
+margin-bottom: 25px;
 }
 
 html, body{
@@ -40,5 +40,9 @@ html, body{
   border-radius: 8px;
   background-color: #f8f8f8;
   cursor: pointer;
+}
+
+#statusText {
+  margin-top: 25px
 }
 
